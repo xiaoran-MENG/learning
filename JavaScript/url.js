@@ -1,0 +1,1 @@
+const url = ['/path','path','path'].join('/')
